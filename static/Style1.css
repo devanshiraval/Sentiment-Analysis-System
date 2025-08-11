@@ -1,0 +1,20 @@
+.container-fluid{
+    background-color: rgb(185, 150, 185);
+    width: 100%;
+    height: 200px;
+    background-repeat:  repeat;
+    /* background-color: #5585b5; */
+    /* background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5W8-u92GWtHutLScf6q2j0Of2slwEjiNkaA&s"); */
+    /* background-image: url("../_images/devu.jpg"); */
+    background-blend-mode: lighten;
+}
+
+
+.devu{
+    
+    background-repeat:  repeat;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFRQYBLyGSRYJkOGSJPIIXTycAP1hhVc__jg&s");
+    background-blend-mode: lighten;
+} 
+
+
