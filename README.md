@@ -10,7 +10,6 @@ vaderSentiment <br />
 
 ### VADER SENTIMENT <br />
 VADER (Valence Aware Dictionary and sEntiment Reasoner) is a lexicon and rule-based sentiment analysis tool that is specifically attuned to sentiments expressed in social media, and works well on texts from other domains. <br />
-More about [VADER](https://pypi.org/project/vaderSentiment/)
 <br />
 <br />
 ### LET'S TALK ABOUT SENTIMENT ANALYSIS <br />
